@@ -1,0 +1,15 @@
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\bin\Debug\net7.0\Arquivos.exe
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\bin\Debug\net7.0\Arquivos.dll
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.dll
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+D:\Unoesc\Programacao I\2023\Exe\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
